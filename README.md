@@ -16,6 +16,8 @@ Youtube Video Linki [https://www.youtube.com/watch?v=uxX3b_UnFbM](https://www.yo
 ## Ekran Görüntüleri
 
 * https://www.hizliresim.com/lst7rui
+* https://www.hizliresim.com/aoyb33c
+* https://www.hizliresim.com/ni0hg9v
 
   
 ## Teşekkür
