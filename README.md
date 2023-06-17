@@ -6,7 +6,7 @@ Bu proje Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendsiliği Böl
 
 ## Lütfen İzleyiniz
 
-Youtube Video Linki https://www.youtube.com/watch?v=uxX3b_UnFbM
+Youtube Video Linki [https://www.youtube.com/watch?v=uxX3b_UnFbM](https://www.youtube.com/watch?v=D5uycsrOCjk)
 
   
 ## Amaç ve Kapsam
