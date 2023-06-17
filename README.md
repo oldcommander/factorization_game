@@ -15,7 +15,7 @@ Youtube Video Linki [https://www.youtube.com/watch?v=uxX3b_UnFbM](https://www.yo
 * Oyun içerisinde yer alan işlemler ve yordamlar ile çocukların matematiğe bakış açılarını değiştirerek onlara sevdirmeyi amaçlamıştır. En kısa yol problemleri, çarpanlara ayırma, mod alma, asal sayılar, toplama, çıkarma, bölme, çarpma gibi birçok işlemi kolayca yapılması için tamamen eğlenceli bir hale getirerek mühendisliğin temeli olan bu yararlı alışkanlığı çocuklara aşılamayı hedeflemekteyiz. 
 ## Ekran Görüntüleri
 
-* [url=https://www.hizliresim.com/lst7rui][img]https://i.hizliresim.com/lst7rui.png[/img][/url]
+* https://www.hizliresim.com/lst7rui
 
   
 ## Teşekkür
